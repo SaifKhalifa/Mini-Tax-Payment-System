@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Tax Payment System", "Mini Tax Payment System.csproj", "{859D5AF6-EB22-4B5C-ACF0-C276A543D03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859D5AF6-EB22-4B5C-ACF0-C276A543D03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859D5AF6-EB22-4B5C-ACF0-C276A543D03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859D5AF6-EB22-4B5C-ACF0-C276A543D03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859D5AF6-EB22-4B5C-ACF0-C276A543D03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EB1A7E-71F1-43F1-9DD9-0D1B4C001FC6}
+	EndGlobalSection
+EndGlobal
